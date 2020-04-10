@@ -1,4 +1,9 @@
-Accounts
+<<<<<<< .mineAccounts
 Finance
 Clerk
 
+=======32000
+43000
+45000
+67000
+>>>>>>> .theirs
